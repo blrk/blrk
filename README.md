@@ -3,7 +3,13 @@
 - - 🌱 I’m waiting for my Ph.D viva
 - 💞️ I’m looking to collaborate in the areas of cloud and DevOps
 - 📫 How to reach me blrk.research@gmail.com
-
+#### Certifications
+* Google Certified Associate Cloud Engineer
+* SUSE Certified Engineer in Enterprise Linux 12 and 15
+* SUSE Certified Administrator in Enterprise Linux 11,12, and 15
+* SUSE Certified Administrator in OpenStack Cloud
+* Certified OpenStack Administrator
+* EMC2 Cloud Infrastructure and Services
 <!---
 blrk/blrk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
