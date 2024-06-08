@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @blrk
-- 👀 I'm interested in cloud and DevOps
-- 🌱 I’m waiting for my Ph.D viva
+- 👀 I'm interested in continuous learning
 - 💞️ I’m looking to collaborate in the areas of Kubernetes, cloud and DevOps
+- 🌱 I posses a Ph.D degree in COmputer Science and Engineering. (Thesis title: Effective sleep stage detection approaches using single-channel EEG for in-home sleep monitoring systems)
 - 📫 How to reach me blrk.research@gmail.com
+   
 #### Certifications
 * Google Certified Associate Cloud Engineer
 * SUSE Certified Engineer in Enterprise Linux 12 and 15
