@@ -11,7 +11,7 @@
 * Certified OpenStack Administrator
 * EMC2 Cloud Infrastructure and Services
   
-<a href=”https://www.linkedin.com/in/blradhakrishnan/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href="https://www.linkedin.com/in/blradhakrishnan/"><img align="left" src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt="icon | LinkedIn" width="21px"/></a>
 
 <!---
 blrk/blrk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
