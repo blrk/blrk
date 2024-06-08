@@ -4,7 +4,7 @@ Passionate about technology and a self-motivated professional with over 15 years
 #### About Me...
 - 👀 I'm interested in continuous learning
 - 💞️ I’m looking to collaborate in the areas of Kubernetes, cloud and DevOps
-- 🌱 I posses a Ph.D degree in COmputer Science and Engineering. (Filed of Study: Automatic sleep stage classification in home environments)
+- 🌱 I have a Ph.D degree in Computer Science and Engineering. (<b>Study:</b> Automatic sleep stage classification in home environments)
 - 📫 How to reach me blrk.research@gmail.com
    
 #### Certifications
