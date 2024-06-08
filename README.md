@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @blrk
+# Hi, I'm Radhakrishnan 👋
+Passionate about technology and a self-motivated professional with over 15 years of experience in training and technical program management. Expertise in developing and delivering skill-based training programs. Extensive experience in Linux server administration, containerization, Kubernetes, container and Kubernetes security, and Azure DevOps. Proven ability to manage and lead technical training programs, ensuring alignment with organizational goals and fostering continuous learning and development.
+
+#### About Me...
 - 👀 I'm interested in continuous learning
 - 💞️ I’m looking to collaborate in the areas of Kubernetes, cloud and DevOps
 - 🌱 I posses a Ph.D degree in COmputer Science and Engineering. (Thesis title: Effective sleep stage detection approaches using single-channel EEG for in-home sleep monitoring systems)
