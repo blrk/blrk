@@ -6,7 +6,10 @@ Passionate about technology and a self-motivated professional with over 15 years
 - 💞️ I’m looking to collaborate in the areas of Kubernetes, cloud and DevOps
 - 🌱 I have a Ph.D degree in Computer Science and Engineering. (<b>Study:</b> Automatic sleep stage classification in home environments)
 - 📫 How to reach me blrk.research@gmail.com
-   
+
+#### Skills
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+
 #### Certifications
 * Google Certified Associate Cloud Engineer
 * SUSE Certified Engineer in Enterprise Linux 12 and 15
