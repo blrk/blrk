@@ -8,7 +8,7 @@ Passionate about technology and a self-motivated professional with over 15 years
 - 📫 How to reach me blrk.research@gmail.com
 
 #### Skills
-- ![Kubernetes](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![Kubernetes](https://placehold.co/15x15/c5f015/c5f015.png) `Kubernetes`
 
 #### Certifications
 * Google Certified Associate Cloud Engineer
