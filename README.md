@@ -8,7 +8,7 @@ Passionate about technology and a self-motivated professional with over 15 years
 - 📫 How to reach me blrk.research@gmail.com
 
 #### Skills
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,linux,aws,gcp,azure,git,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,linux,aws,gcp,azure,openstack,git,python,anaconda)](https://skillicons.dev)
 
 #### Certifications
 * Google Certified Associate Cloud Engineer
