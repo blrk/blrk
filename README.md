@@ -17,7 +17,7 @@ Passionate about technology and a self-motivated professional with over 15 years
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-13aa52?style=flat-square&logo=amazon&logoColor=white" />
 <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft Azure-764ABC?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack%20XD-ff62f6?style=flat-square&logo=openstack%20XD&logoColor=white" />
+<img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack%20XD-ff62f6?style=flat-square&logo=openstack&logoColor=white" />
 </p>
 
 #### Certifications
