@@ -13,6 +13,7 @@ Passionate about technology and a self-motivated professional with over 15 years
 <img alt="Podman" src="https://img.shields.io/badge/Podman-f7df1c?style=flat-square&logo=Podman&logoColor=black" />
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-7953b3?style=flat-square&logo=Kubernetes&logoColor=white" />
 <img alt="Red Hat" src="https://img.shields.io/badge/-Red Hat-DD0031?style=flat-square&logo=redhat&logoColor=white" />
+<img alt="SUSE" src="https://img.shields.io/badge/-SUSE Linux-43853d?style=flat-square&logo=suse&logoColor=white" />
 <img alt="Azure Pipelines" src="https://img.shields.io/badge/-Azure Pipelines-E34F26?style=flat-square&logo=Azure Pipelines&logoColor=white" />
 <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure Devops-007ACC?style=flat-square&logo=Azure DevOps&logoColor=white" />
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
