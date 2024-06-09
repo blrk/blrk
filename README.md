@@ -25,6 +25,7 @@ Passionate about technology and a self-motivated professional with over 15 years
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-007ACC?style=flat-square&logo=github&logoColor=white" />
 <img alt="Bitbuket" src="https://img.shields.io/badge/-Bitbucket-E10098?style=flat-square&logo=bitbucket&logoColor=white" />
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-F7B93E?style=flat-square&logo=python&logoColor=white" />
 </p>
 
