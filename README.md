@@ -12,6 +12,8 @@ Passionate about technology and a self-motivated professional with over 15 years
 
 <p>
 <img alt="Kubernetes" src="https://img.shields.io/badge/dynamic/xml">
+<img alt="Kubernetes" src="https://img.shields.io/badge/:badgeContent">
+
 </p>
 
 #### Certifications
