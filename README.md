@@ -16,6 +16,7 @@ Passionate about technology and a self-motivated professional with over 15 years
 <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure Devops-007ACC?style=flat-square&logo=Azure DevOps&logoColor=white" />
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-13aa52?style=flat-square&logo=amazon&logoColor=white" />
+<img alt="googlecloud" src="https://img.shields.io/badge/-Google Cloud-764ABC?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
 #### Certifications
