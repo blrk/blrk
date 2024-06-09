@@ -10,6 +10,10 @@ Passionate about technology and a self-motivated professional with over 15 years
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,linux,redhat,aws,gcp,azure,openstack,git,python,anaconda)](https://skillicons.dev)
 
+<p>
+<img alt="Kubernetes" src="https://img.shields.io/badge/dynamic/xml">
+</p>
+
 #### Certifications
 * Google Certified Associate Cloud Engineer
 * SUSE Certified Engineer in Enterprise Linux 12 and 15
