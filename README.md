@@ -15,6 +15,7 @@ Passionate about technology and a self-motivated professional with over 15 years
 <img alt="Red Hat" src="https://img.shields.io/badge/-Red Hat-DD0031?style=flat-square&logo=redhat&logoColor=white" />
 <img alt="SUSE" src="https://img.shields.io/badge/-SUSE Linux-43853d?style=flat-square&logo=suse&logoColor=white" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-F9A03C?style=flat-square&logo=ubuntu&logoColor=white" />
+<img alt="Debian" src="https://img.shields.io/badge/-Debian-db7092?style=flat-square&logo=debian&logoColor=white" />
 <img alt="Azure Pipelines" src="https://img.shields.io/badge/-Azure Pipelines-E34F26?style=flat-square&logo=Azure Pipelines&logoColor=white" />
 <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure Devops-007ACC?style=flat-square&logo=Azure DevOps&logoColor=white" />
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
