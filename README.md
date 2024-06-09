@@ -10,7 +10,7 @@ Passionate about technology and a self-motivated professional with over 15 years
 #### Skills
 <p>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-<img alt="Podman" src="https://img.shields.io/badge/-podman-f7df1c?style=flat-square&logo=Podman&logoColor=black" />
+<img alt="Podman" src="https://img.shields.io/badge/Podman-f7df1c?style=flat-square&logo=Podman&logoColor=black" />
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-7953b3?style=flat-square&logo=Kubernetes&logoColor=white" />
 <img alt="Azure Pipelines" src="https://img.shields.io/badge/-Azure Pipelines-E34F26?style=flat-square&logo=Azure Pipelines&logoColor=white" />
 <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure Devops-007ACC?style=flat-square&logo=Azure DevOps&logoColor=white" />
