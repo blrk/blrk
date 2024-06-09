@@ -23,6 +23,7 @@ Passionate about technology and a self-motivated professional with over 15 years
 <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft Azure-764ABC?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack-ff62f6?style=flat-square&logo=openstack&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Bitbuket" src="https://img.shields.io/badge/-Bitbucket-E10098?style=flat-square&logo=bitbucket&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-F7B93E?style=flat-square&logo=python&logoColor=white" />
 </p>
 
