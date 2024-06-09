@@ -8,10 +8,7 @@ Passionate about technology and a self-motivated professional with over 15 years
 - 📫 How to reach me blrk.research@gmail.com
 
 #### Skills
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,linux,redhat,aws,gcp,azure,openstack,git,python,anaconda)](https://skillicons.dev)
-
 <p>
-<img alt="Kubernetes" src="https://img.shields.io/badge/dynamic/xml">
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
@@ -24,6 +21,7 @@ Passionate about technology and a self-motivated professional with over 15 years
 * Certified OpenStack Administrator
 * EMC2 Cloud Infrastructure and Services
 
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,linux,redhat,aws,gcp,azure,openstack,git,python,anaconda)](https://skillicons.dev)
 <!---
 blrk/blrk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
