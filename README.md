@@ -1,4 +1,4 @@
-# Hi, I'm Radhakrishnan 👋 ![](https://komarev.com/ghpvc/?username=blrk&color=green)
+# Hi, I'm Radhakrishnan 👋
 Passionate about technology and a self-motivated professional with over 15 years of experience in training and technical program management. Expertise in developing and delivering skill-based training programs. Extensive experience in Linux server administration, containerization, Kubernetes, container and Kubernetes security, and Azure DevOps. Proven ability to manage and lead technical training programs, ensuring alignment with organizational goals and fostering continuous learning and development.
 
 #### About Me...
